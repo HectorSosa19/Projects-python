@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "acepta una palabra y determina si es un diptongo", "acepta una palabra y determina si es un diptongo\acepta una palabra y determina si es un diptongo.pyproj", "{DCB2DDF1-3850-4F8D-8898-AD8C6106807E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB2DDF1-3850-4F8D-8898-AD8C6106807E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB2DDF1-3850-4F8D-8898-AD8C6106807E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA0FF47-7AF0-4BB6-B1F4-0AA784FB99AC}
+	EndGlobalSection
+EndGlobal

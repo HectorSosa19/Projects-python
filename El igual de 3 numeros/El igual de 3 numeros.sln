@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "El igual de 3 numeros", "El igual de 3 numeros\El igual de 3 numeros.pyproj", "{0E5EF1B5-3803-4FAA-AE92-4591066701C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E5EF1B5-3803-4FAA-AE92-4591066701C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5EF1B5-3803-4FAA-AE92-4591066701C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F35A4FB-3AC4-4EF1-B2CF-6612C85E611D}
+	EndGlobalSection
+EndGlobal

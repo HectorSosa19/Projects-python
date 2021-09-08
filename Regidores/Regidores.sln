@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Regidores", "Regidores\Regidores.pyproj", "{828DE693-64F7-42D2-82FB-476E6B389E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828DE693-64F7-42D2-82FB-476E6B389E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828DE693-64F7-42D2-82FB-476E6B389E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E34163C9-3B1E-4101-A1E3-28D26C189911}
+	EndGlobalSection
+EndGlobal

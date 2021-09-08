@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "numero en letra y verificar cual es el mayor", "numero en letra y verificar cual es el mayor\numero en letra y verificar cual es el mayor.pyproj", "{5EDC5D48-F81D-4843-9212-849B45F92359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EDC5D48-F81D-4843-9212-849B45F92359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDC5D48-F81D-4843-9212-849B45F92359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30ED7079-43DE-4EA5-80C6-4CA4BB5B9485}
+	EndGlobalSection
+EndGlobal

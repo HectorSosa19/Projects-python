@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "programa que determine los elementos de la tabla periodica", "programa que determine los elementos de la tabla periodica\programa que determine los elementos de la tabla periodica.pyproj", "{314CC161-BD43-4569-B78A-8F8EE535AA33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314CC161-BD43-4569-B78A-8F8EE535AA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314CC161-BD43-4569-B78A-8F8EE535AA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {808A2559-E1D3-4237-8064-C91ACC4D5590}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "acepte una palabra y determine si es aguda acentuada", "acepte una palabra y determine si es aguda acentuada\acepte una palabra y determine si es aguda acentuada.pyproj", "{E6308AEB-A670-44C7-AA59-A27CEED9FFC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6308AEB-A670-44C7-AA59-A27CEED9FFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6308AEB-A670-44C7-AA59-A27CEED9FFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EECE160-0967-40B8-ACF2-931251543CB5}
+	EndGlobalSection
+EndGlobal

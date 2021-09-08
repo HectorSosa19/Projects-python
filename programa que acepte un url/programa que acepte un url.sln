@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "programa que acepte un url", "programa que acepte un url\programa que acepte un url.pyproj", "{50EE6EAE-FF3F-4AA2-B026-237CA9027C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50EE6EAE-FF3F-4AA2-B026-237CA9027C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50EE6EAE-FF3F-4AA2-B026-237CA9027C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F63A2735-700F-4E8F-8EB2-8E574A1022DE}
+	EndGlobalSection
+EndGlobal

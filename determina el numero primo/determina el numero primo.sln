@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "determina el numero primo", "determina el numero primo\determina el numero primo.pyproj", "{1343184C-F46E-49C9-BB02-64B3A401AA9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1343184C-F46E-49C9-BB02-64B3A401AA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1343184C-F46E-49C9-BB02-64B3A401AA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88CA8DBD-98C6-46AC-85D1-A37E71948AA0}
+	EndGlobalSection
+EndGlobal

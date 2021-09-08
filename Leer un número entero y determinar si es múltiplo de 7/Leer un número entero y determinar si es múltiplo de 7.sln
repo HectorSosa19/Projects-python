@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Leer un número entero y determinar si es múltiplo de 7", "Leer un número entero y determinar si es múltiplo de 7.\Leer un número entero y determinar si es múltiplo de 7.pyproj", "{B9E956E1-7A6A-41F5-AF56-7D379EB9A82F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9E956E1-7A6A-41F5-AF56-7D379EB9A82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E956E1-7A6A-41F5-AF56-7D379EB9A82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7127088B-9F64-4F1C-91B7-774B475C8900}
+	EndGlobalSection
+EndGlobal
